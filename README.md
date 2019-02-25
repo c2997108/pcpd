@@ -5,3 +5,4 @@
 - fastx_toolkit
 - cd-hit
 - blast
+- fasta_to_tab.pl from Trinity
